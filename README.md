@@ -1,6 +1,4 @@
-# SQL
-
-[TOC]
+# SQL-Cheatsheet
 
 ## Database
 
